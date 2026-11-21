@@ -1,0 +1,150 @@
+tiempo,t
+tiempo inicial,ti
+tiempo final,tf
+posicion,x
+posicion inicial,xi
+posicion final,xf
+distancia,d
+altura,h
+longitud,L
+radio,r
+angulo,theta
+velocidad,v
+velocidad inicial,vi
+velocidad final,vf
+velocidad media,vm
+aceleracion,a
+aceleracion de la gravedad,g
+masa,m
+fuerza,F
+fuerza neta,Fn
+fuerza normal,N
+peso,w
+fuerza de friccion,Ff
+coeficiente de friccion,mu
+coeficiente de friccion estatica,mus
+coeficiente de friccion cinetica,muk
+trabajo,W
+energia,E
+energia cinetica,Ec
+energia potencial,Ep
+energia potencial elastica,Epe
+energia mecanica,Em
+potencia,P
+cantidad de movimiento,p
+impulso,J
+periodo,T
+frecuencia,f
+velocidad angular,omega
+aceleracion centripeta,ac
+fuerza centripeta,Fc
+constante de gravitacion universal,G
+constante del resorte,k
+amplitud,Amp
+longitud de onda,lambda
+velocidad de la luz,c
+densidad,rho
+volumen,Vol
+area,A
+presion,Pr
+presion atmosferica,Patm
+fuerza de empuje,Fe
+caudal,Qc
+temperatura,Temp
+temperatura inicial,Tempi
+temperatura final,Tempf
+calor,Q
+calor especifico,ce
+calor latente,Lat
+coeficiente de dilatacion lineal,alpha
+numero de moles,nmol
+constante de los gases,Rg
+carga electrica,q
+constante de Coulomb,ke
+campo electrico,Ecampo
+voltaje,V
+corriente electrica,I
+resistencia,R
+campo magnetico,B
+distancia focal,foc
+indice de refraccion,n
+longitud inicial,Li
+longitud final,Lf
+masa del cuerpo 1,m1
+masa del cuerpo 2,m2
+carga de la particula 1,q1
+carga de la particula 2,q2
+indice de refraccion del medio 1,n1
+indice de refraccion del medio 2,n2
+angulo en el medio 1,theta1
+angulo en el medio 2,theta2
+resistencia 1,R1
+resistencia 2,R2
+resistencia equivalente,Req
+distancia al objeto,do
+distancia a la imagen,di
+componente x de la velocidad,vx
+componente y de la velocidad,vy
+longitud de arco,s
+componente x del peso,wx
+componente y del peso,wy
+torque,tau
+velocidad inicial del cuerpo 1,vi1
+velocidad inicial del cuerpo 2,vi2
+velocidad final del cuerpo 1,vf1
+velocidad final del cuerpo 2,vf2
+eficiencia,eta
+potencia util,Pu
+potencia de entrada,Pent
+peso especifico,gamma
+fuerza 1,F1
+fuerza 2,F2
+area 1,A1
+area 2,A2
+velocidad 1,v1
+velocidad 2,v2
+altura 1,h1
+altura  2,h2
+presion 1,Pr1
+presion 2,Pr2
+presion inicial,Pri
+presion final,Prf
+temperatura en celsius,TC
+temperatura en fahrenheit,TF
+temperatura en kelvin,TK
+area inicial,Ai
+area final,Af
+volumen inicial,Voli
+volumen final,Volf
+capacidad calorifica,Ccal
+calor especifico del cuerpo 1,ce1
+calor especifico del cuerpo 2,ce2
+temperatura inicial del cuerpo 1,Tempi1
+temperatura inicial del cuerpo 2,Tempi2
+cambio de energia interna,dU
+calor absorbido,Qabs
+calor cedido,Qced
+temperatura del foco caliente,Tcal
+temperatura del foco frio,Tfri
+resistividad,rhoe
+capacitancia,C
+capacitancia 1,C1
+capacitancia 2,C2
+capacitancia equivalente,Ceq
+permeabilidad magnetica del vacio,mu0
+numero de vueltas,Nv
+flujo magnetico,Phi
+cambio de flujo magnetico,dPhi
+fuerza electromotriz,fem
+voltaje primario,Vp
+voltaje secundario,Vs
+vueltas del primario,Np
+vueltas del secundario,Ns
+angulo de incidencia,thetai
+angulo de reflexion,thetar
+angulo critico,thetac
+radio de curvatura,Rc
+aumento,M
+altura del objeto,ho
+altura de la imagen,hi
+potencia optica,D
