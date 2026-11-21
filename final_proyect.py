@@ -86,7 +86,7 @@ def print_welcome():
 def read_formulas() -> list:
     """Loads the equations as a list of dictionaries"""
     formulas = []
-    with open("data.csv", "r") as file:
+    with open("data.csv", "r", encoding="utf-8",newline="") as file:
         reader = csv.DictReader(file)
         for row in reader:
             row["vars"] = row["vars"].split("-")
@@ -98,7 +98,7 @@ def read_formatting() -> list:
     """Loads only the words from the format file as a list"""
     words = []
     format = {}
-    with open("format.csv", "r") as file:
+    with open("format.csv", "r", encoding="utf-8",newline="") as file:
         reader = csv.reader(file)
         for row in reader:
             words.append(row[0])
