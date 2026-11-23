@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ```
 Ejecuta el programa:
 ```
-python final_project.py
+python proyect.py
 ```
 
 # Librerías utilizadas
@@ -112,7 +112,7 @@ pip install -r requirements.txt
 ```
 Run the program:
 ```
-python final_project.py
+python proyect.py
 ```
  
 # Libraries used
